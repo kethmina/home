@@ -43,22 +43,7 @@
 	
 	
 </head>
-<body>
-     <nav class="navbar">
-	 <div class="navdiv">
-	 <div class="logo"><a href="#">STANDING DESKS</a></div>
-	 <ul>
-	     <button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/Home%20page.html';">Home Page</button>
-		<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/rising%20desks.html';">Rising Desks</button>
-		<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/cart.html';">Cart</button>
-		<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/health%20benefits.html';">Health benefits</button>
-		<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/contact%20us.html';">Contact Us</button>
-	</ul>
-	</nav>
-	</div>
-	</div>
 
-</body>
 </html>
 
 
@@ -76,10 +61,3 @@
 Discover the perfect blend of style, functionality, and health benefits with our range of award-winning standing desks. Whether you’re working from home or in the office, our electric standing desks, desk converters, and accessories are designed to keep you active and energized throughout the day
   </font><br/><br/>
 <br/><br/><br/>
-<h3 align="center">
-<a href="file:///C:/Users/kethmina/Desktop/assignment%202/sign%20up.html">Sign up</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="file:///C:/Users/kethmina/Desktop/assignment%202/sign%20in.html">Sign in</a>
-</h3>
-</head>
-</html>
-
